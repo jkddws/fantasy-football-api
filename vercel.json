@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/update-projections.js": {
+      "maxDuration": 30
+    }
+  }
+}
